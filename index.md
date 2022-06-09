@@ -4,3 +4,5 @@
 
 ### test h3 header
 what will happen on this line?
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
